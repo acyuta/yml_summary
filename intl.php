@@ -1,0 +1,53 @@
+<?php
+return array(
+    'en' => array(
+        'delivery' => 'Delivery',
+        'url' => 'Link to product',
+        'price' => 'Product price',
+        'opt_price' => 'Bulk price',
+        'model' => 'Model',
+        'barcode' => 'Barcode',
+        'description' => 'Description',
+        'vendor' => 'Manufacturer',
+        'vendorCode' => 'Product item',
+        'typePrefix' => 'Product type',
+        'picture' => 'Product images',
+        'id' => 'Product id',
+
+        'shop_name' => 'Shop name',
+        'company_name' => 'Company name',
+        'company_url' => 'Company link',
+        'categories' => "Categories",
+        'signs' => 'Signs',
+        'total_cat_roots' => 'Total roots',
+        'total_cats' => 'Total categories',
+        'statistic' => 'Statistic',
+        'available_offers' => 'Available products',
+        'avg_images' => 'Avg pictures per product'
+    ),
+    'ru' => array(
+        'delivery' => 'Доставка товара',
+        'url' => 'Прямая ссылка на товар',
+        'price' => 'Цена товара',
+        'opt_price' => 'Оптовая цена',
+        'model' => 'Модель товара',
+        'barcode' => 'Штрих-код',
+        'description' => 'Описание товара',
+        'vendor' => 'Производитель',
+        'vendorCode' => 'Артикул товара',
+        'typePrefix' => 'Тип продукта',
+        'picture' => 'Изображения',
+        'id' => 'Идентификатор товара',
+
+        'shop_name' => 'Название магазина',
+        'company_name' => 'Название компании',
+        'company_url' => 'Ссылка на компанию',
+        'categories' => "Категории",
+        'signs' => 'Признаки',
+        'total_cat_roots' => 'Всего корневых категорий',
+        'total_cats' => 'Всего категорий',
+        'statistic' => 'Статистика',
+        'available_offers' => 'Доступность продуктов',
+        'avg_images' => 'Изображений у товара в среднем'
+    ),
+);
